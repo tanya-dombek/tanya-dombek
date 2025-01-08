@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building interactive web applications using React, TypeScript, and Tailwind CSS.<br>👯 I’m looking for a Frontend Developer position where I can contribute to an exciting and innovative project.<br>🌱 I’m currently learning GraphQL and its ecosystem.<br>⚡ Fun fact I once moved to a new country to learn web development—best decision ever! 🌍
+🔭 I’m currently working on interactive web applications using React, TypeScript, and Tailwind CSS.<br>👯 I’m looking for a Frontend Developer position where I can contribute to an exciting and innovative project.<br>🌱 I’m currently learning GraphQL and its ecosystem.<br>⚡ Fun fact I once moved to a new country to learn web development—best decision ever! 🌍
 
 
 ## 🌐 Socials:
