@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on interactive web applications using React, TypeScript, and Tailwind CSS.<br>👯 I’m looking for a Frontend Developer position where I can contribute to an exciting and innovative project.<br>🌱 I’m currently learning GraphQL and its ecosystem.<br>⚡ Fun fact I once moved to a new country to learn web development—best decision ever! 🌍
+🔭 I’m currently working on interactive web applications using React, TypeScript, and Tailwind CSS.<br>👯 I’m looking for a Frontend Developer position where I can contribute to an exciting and innovative project.<br>🌱 I’m currently learning GraphQL and its ecosystem.<br>⚡ Fun fact I once moved to a new country to learn web development - best decision ever! 🌍
 
 
 ## 🌐 Socials:
@@ -10,10 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanya-dombek&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanya-dombek&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-dombek&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanya-dombek&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
